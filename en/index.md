@@ -37,7 +37,7 @@
 - 2022/08 e-Seikatsu Co., Ltd. Internship (1 week)
     - Theme: Team development using our service API and Vue.js!
 
-## リンク
+## Links
 - [GitHub](https://github.com/ruthen71)
 - [Twitter](https://twitter.com/ruthen71)
 - [HatenaBlog](https://ruthen.hatenablog.com/)
