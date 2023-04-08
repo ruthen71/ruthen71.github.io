@@ -1,8 +1,6 @@
-# ruthen71
 [Japanese](https://ruthen71.github.io)
 
-## Name
-- ruthen
+# ruthen
 
 ## Biography
 - 2016/04 ~ 2019/03 Tsuchiura First High School
@@ -10,7 +8,7 @@
 - 2023/04 ~ University of Tsukuba, Graduate School of Science and Technology, Degree Programs in Systems and Information Engineering, Master's Program in Computer Science
 
 ## Awards
-- 2021/05 Tsukuba Scholarship, Scholarship for Academic Archievement
+- 2021/05 Tsukuba Scholarship, Scholarship for Academic Excellence
 - 2023/03 Dean's Award, School of Informatics
 
 ## Qualifications
@@ -28,6 +26,7 @@
 - [ICPC 2020 Asia Yokohama Regional Contest](https://icpc.iisf.or.jp/2020-yokohama/) 22nd Team shichifuku (ruthen, nope, Shuz*)
 - [ICPC 2021 Asia Yokohama Regional Contest](https://icpc.iisf.or.jp/2021-yokohama/) 23rd Team shichifuku (ruthen, nope, Shuz*)
 - [ICPC 2022 Preliminary Round](https://icpc.iisf.or.jp/2022-yokohama/) 36th Team shichifuku (ruthen, nope, Shuz*)
+- [RECRUIT Nihonbashi Half Marathon 2022 Summer (AHC013)](https://atcoder.jp/contests/ahc013) 23rd (among students)
 - [Toyota Programming Contest 2023 Spring Final](https://atcoder.jp/contests/toyota2023spring-final) 144th
 
 

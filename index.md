@@ -1,8 +1,6 @@
-# ruthen71
 [English](https://ruthen71.github.io/en/)
 
-## 名前
-- るてん
+# るてん (ruthen)
 
 ## 略歴
 - 2016/04 ~ 2019/03 茨城県立土浦第一高等学校
@@ -28,14 +26,15 @@
 - [ICPC 2020 Asia Yokohama Regional Contest](https://icpc.iisf.or.jp/2020-yokohama/) 22位 Team shichifuku (ruthen, nope, Shuz*)
 - [ICPC 2021 Asia Yokohama Regional Contest](https://icpc.iisf.or.jp/2021-yokohama/) 23位 Team shichifuku (ruthen, nope, Shuz*)
 - [ICPC 2022 国内予選](https://icpc.iisf.or.jp/2022-yokohama/) 36位 Team shichifuku (ruthen, nope, Shuz*)
+- [RECRUIT 日本橋ハーフマラソン 2022夏 (AtCoder Heuristic Contest 013)](https://atcoder.jp/contests/ahc013) 学生23位
 - [Toyota Programming Contest 2023 Spring Final](https://atcoder.jp/contests/toyota2023spring-final) 144位
 
 
 ## 職歴
 - 2021/07 ~ 2021/08 株式会社フィックスターズ インターンシップ (3週間)
-    - テーマ：DSPによる画像処理の高速化
+    - テーマ: DSPによる画像処理の高速化
 - 2022/08 株式会社いい生活 インターンシップ (1週間)
-    - テーマ：当社サービスのAPIとVue.jsを使ってチーム開発をしよう！
+    - テーマ: 当社サービスのAPIとVue.jsを使ってチーム開発をしよう！
 
 ## リンク
 - [GitHub](https://github.com/ruthen71)
