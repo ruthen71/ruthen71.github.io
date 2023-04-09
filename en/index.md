@@ -1,4 +1,4 @@
-[Japanese](https://ruthen71.github.io)
+[日本語](https://ruthen71.github.io)
 
 # ruthen
 
@@ -20,6 +20,7 @@
 ## Competitive Programming
 - [AtCoder](https://atcoder.jp/users/ruthen71)
 - [Codeforces](https://codeforces.com/profile/ruthen)
+- [CodeChef](https://www.codechef.com/users/ruthen)
 - [AOJ](https://onlinejudge.u-aizu.ac.jp/status/users/ruthen71)
 - [yukicoder](https://yukicoder.me/users/14969)
 - [rcpl (ruthen's competitive programming library)](https://ruthen71.github.io/rcpl/)
@@ -28,7 +29,6 @@
 - [ICPC 2022 Preliminary Round](https://icpc.iisf.or.jp/2022-yokohama/) 36th Team shichifuku (ruthen, nope, Shuz*)
 - [RECRUIT Nihonbashi Half Marathon 2022 Summer (AHC013)](https://atcoder.jp/contests/ahc013) 23rd (among students)
 - [Toyota Programming Contest 2023 Spring Final](https://atcoder.jp/contests/toyota2023spring-final) 144th
-
 
 ## Work History
 - 2021/07 ~ 2021/08 Fixstars Corporation Internship (3 weeks)
