@@ -47,11 +47,12 @@
 - 2022/03 [ICPC 2021 Asia Yokohama Regional Contest](https://icpc.iisf.or.jp/2021-yokohama/icpc-2021-yokohama-regional-standings) 23rd Team shichifuku (ruthen, nope, Shuz*)
 - 2022/07 [ICPC 2022 Preliminary Round](https://icpc.iisf.or.jp/2022-yokohama/domestic-results) 36th Team shichifuku (ruthen, nope, Shuz*)
 - 2023/07 [ICPC 2023 Preliminary Round](https://icpc.iisf.or.jp/2023-yokohama/domestic/icpc-2023-result) 23rd Team Big O of N cubed (ruthen, pointN, niuez)
+- 2023/11 [ICPC 2023 Asia Yokohama Regional Contest]() 27th Team Big O of N cubed (ruthen, pointN, niuez)
 
 ### Others
 - 2022/08 [RECRUIT Nihonbashi Half Marathon 2022 Summer (AHC013)](https://atcoder.jp/contests/ahc013) 23rd (among students)
 - 2023/03 [Toyota Programming Contest 2023 Spring Final](https://atcoder.jp/contests/toyota2023spring-final) 144th
-- 2023/09 [Axell AI Contest 2023](https://atcoder.jp/contests/axell2023) 3rd (in University of Tsukuba)
+- 2023/09 [Axell AI Contest 2023](https://atcoder.jp/contests/axell2023) 3rd
 
 ### My library
 - [rcpl (ruthen's competitive programming library)](https://ruthen71.github.io/rcpl)
