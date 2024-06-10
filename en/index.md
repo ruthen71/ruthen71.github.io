@@ -1,3 +1,8 @@
+---
+layout: default
+title: ruthen's page
+---
+
 [日本語](https://ruthen71.github.io)
 
 # ruthen
@@ -30,6 +35,7 @@
 
 ## Interests
 - Evolutionary Computation
+- Procedural Content Generation
 - Competitive Programming (Combinatorial Optimization)
 
 ## Competitive Programming
@@ -39,6 +45,7 @@
 - [CodeChef](https://www.codechef.com/users/ruthen)
 - [AOJ](https://onlinejudge.u-aizu.ac.jp/status/users/ruthen71)
 - [yukicoder](https://yukicoder.me/users/14969)
+- [CLIST](https://clist.by/coder/ruthen71)
 
 ### ICPC
 - 2020/11 [ICPC 2020 Preliminary Round](https://icpc.iisf.or.jp/2020-yokohama/domestic_result) 45th Team shichifuku (ruthen, nope, Shuz*)
@@ -61,3 +68,4 @@
 - [GitHub](https://github.com/ruthen71)
 - [Twitter](https://twitter.com/ruthen71)
 - [HatenaBlog](https://ruthen.hatenablog.com)
+- [YouTube](https://www.youtube.com/@ruthen71)

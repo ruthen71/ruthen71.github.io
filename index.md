@@ -1,3 +1,8 @@
+---
+layout: default
+title: ruthen's page
+---
+
 [English](https://ruthen71.github.io/en/)
 
 # るてん (ruthen)
@@ -30,6 +35,7 @@
 
 ## 関心
 - 進化計算
+- Procedural Content Generation
 - 競技プログラミング (組合せ最適化)
 
 ## 競技プログラミング
@@ -39,6 +45,7 @@
 - [CodeChef](https://www.codechef.com/users/ruthen)
 - [AOJ](https://onlinejudge.u-aizu.ac.jp/status/users/ruthen71)
 - [yukicoder](https://yukicoder.me/users/14969)
+- [CLIST](https://clist.by/coder/ruthen71)
 
 ### ICPC
 - 2020/11 [ICPC 2020 国内予選](https://icpc.iisf.or.jp/2020-yokohama/domestic_result) 45位 Team shichifuku (ruthen, nope, Shuz*)
@@ -61,3 +68,4 @@
 - [GitHub](https://github.com/ruthen71)
 - [Twitter](https://twitter.com/ruthen71)
 - [HatenaBlog](https://ruthen.hatenablog.com)
+- [YouTube](https://www.youtube.com/@ruthen71)
