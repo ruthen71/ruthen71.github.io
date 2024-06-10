@@ -1,3 +1,5 @@
+{% include robots.html %}
+
 [English](https://ruthen71.github.io/en/)
 
 # るてん (ruthen)
