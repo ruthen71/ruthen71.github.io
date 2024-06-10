@@ -1,8 +1,3 @@
----
-layout: default
-title: ruthen's page
----
-
 [日本語](https://ruthen71.github.io)
 
 # ruthen
