@@ -1,4 +1,7 @@
-{% include robots.html %}
+---
+layout: default
+title: ruthen's page
+---
 
 [English](https://ruthen71.github.io/en/)
 
