@@ -26,7 +26,10 @@
 - 2021/10 TOEIC Listening & Reading Test 700
 
 ## Skills
-- Programming Languages: C/C++, Python, Ruby on Rails
+- Programming Languages
+    - Intermediate: C, C++, Python, Ruby, Bash
+    - Beginner: Java, JavaScript, TypeScript, MATLAB
+- Tools: Git, GitHub, Visual Studio Code, Docker
 
 ## Interests
 - Search Algorithm

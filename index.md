@@ -26,7 +26,10 @@
 - 2021/10 TOEIC Listening & Reading Test 700
 
 ## スキル
-- プログラミング言語: C/C++, Python, Ruby on Rails
+- プログラミング言語
+    - 中級: C, C++, Python, Ruby, Bash
+    - 初級: Java, JavaScript, TypeScript, MATLAB
+- ツール: Git, GitHub, Visual Studio Code, Docker
 
 ## 関心
 - 探索アルゴリズム
