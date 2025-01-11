@@ -1,6 +1,6 @@
 [日本語](https://ruthen71.github.io)
 
-# ruthen
+# ruthen (Takahiro Suzuki)
 
 ## Education
 - 2016/04 - 2019/03 Tsuchiura First High School
@@ -9,11 +9,11 @@
 
 ## Work Experience
 - 2021/07 - 2021/08 Fixstars Corporation Internship (3 weeks)
-    - Theme: Acceleration of image processing by DSP
+    - Theme: Acceleration of Image Processing by DSP
 - 2022/08 e-Seikatsu Co., Ltd. Internship (1 week)
-    - Theme: Team development using our service API and Vue.js!
+    - Theme: Team Development Using Our Service API and Vue.js!
 - 2023/08 - 2023/09 Recruit Co., Ltd. Internship (6 weeks)
-    - Theme: Acceleration of internal systems by eliminating the N+1 problem
+    - Theme: Acceleration of Internal Systems by Eliminating the N+1 Problem
 
 ## Awards
 - 2021/05 Tsukuba Scholarship, Scholarship for Academic Excellence
@@ -29,14 +29,14 @@
 - Programming Languages: C/C++, Python, Ruby on Rails
 
 ## Interests
-- Evolutionary Computation
-- Procedural Content Generation
-- Competitive Programming (Combinatorial Optimization)
+- Search Algorithm
+- Game AI
+- Competitive Programming(Algorithm, Heuristic)
 
 ## Competitive Programming
 ### Accounts
 - [AtCoder](https://atcoder.jp/users/ruthen71)
-- [Codeforces](https://codeforces.com/profile/ruthen)
+- [Codeforces](https://codeforces.com/profile/ruthen71)
 - [CodeChef](https://www.codechef.com/users/ruthen)
 - [AOJ](https://onlinejudge.u-aizu.ac.jp/status/users/ruthen71)
 - [yukicoder](https://yukicoder.me/users/14969)
@@ -49,14 +49,14 @@
 - 2022/03 [ICPC 2021 Asia Yokohama Regional Contest](https://icpc.iisf.or.jp/2021-yokohama/icpc-2021-yokohama-regional-standings) 23rd Team shichifuku (ruthen, nope, Shuz*)
 - 2022/07 [ICPC 2022 Preliminary Round](https://icpc.iisf.or.jp/2022-yokohama/domestic-results) 36th Team shichifuku (ruthen, nope, Shuz*)
 - 2023/07 [ICPC 2023 Preliminary Round](https://icpc.iisf.or.jp/2023-yokohama/domestic/icpc-2023-result) 23rd Team Big O of N cubed (ruthen, pointN, niuez)
-- 2023/11 [ICPC 2023 Asia Yokohama Regional Contest]() 27th Team Big O of N cubed (ruthen, pointN, niuez)
+- 2023/11 [ICPC 2023 Asia Yokohama Regional Contest](https://icpc.global/regionals/finder/Yokohama-2024/standings) 27th Team Big O of N cubed (ruthen, pointN, niuez)
 
 ### Others
 - 2022/08 [RECRUIT Nihonbashi Half Marathon 2022 Summer (AHC013)](https://atcoder.jp/contests/ahc013) 23rd (among students)
 - 2023/03 [Toyota Programming Contest 2023 Spring Final](https://atcoder.jp/contests/toyota2023spring-final) 144th
 - 2023/09 [Axell AI Contest 2023](https://atcoder.jp/contests/axell2023) 3rd
 
-### My library
+### My Library
 - [rcpl (ruthen's competitive programming library)](https://ruthen71.github.io/rcpl)
 
 ## Links

@@ -1,6 +1,6 @@
 [English](https://ruthen71.github.io/en/)
 
-# るてん (ruthen)
+# るてん (ruthen, Takahiro Suzuki)
 
 ## 学歴
 - 2016/04 - 2019/03 茨城県立土浦第一高等学校
@@ -29,14 +29,14 @@
 - プログラミング言語: C/C++, Python, Ruby on Rails
 
 ## 関心
-- 進化計算
-- Procedural Content Generation
-- 競技プログラミング (組合せ最適化)
+- 探索アルゴリズム
+- ゲームAI
+- 競技プログラミング(アルゴリズム, ヒューリスティック)
 
 ## 競技プログラミング
 ### アカウント
 - [AtCoder](https://atcoder.jp/users/ruthen71)
-- [Codeforces](https://codeforces.com/profile/ruthen)
+- [Codeforces](https://codeforces.com/profile/ruthen71)
 - [CodeChef](https://www.codechef.com/users/ruthen)
 - [AOJ](https://onlinejudge.u-aizu.ac.jp/status/users/ruthen71)
 - [yukicoder](https://yukicoder.me/users/14969)
@@ -49,7 +49,7 @@
 - 2022/03 [ICPC 2021 Asia Yokohama Regional Contest](https://icpc.iisf.or.jp/2021-yokohama/icpc-2021-yokohama-regional-standings) 23位 Team shichifuku (ruthen, nope, Shuz*)
 - 2022/07 [ICPC 2022 国内予選](https://icpc.iisf.or.jp/2022-yokohama/domestic-results) 36位 Team shichifuku (ruthen, nope, Shuz*)
 - 2023/07 [ICPC 2023 国内予選](https://icpc.iisf.or.jp/2023-yokohama/domestic/icpc-2023-result) 23位 Team Big O of N cubed (ruthen, pointN, niuez)
-- 2023/11 [ICPC 2023 Asia Yokohama Regional Contest]() 27位 Team Big O of N cubed (ruthen, pointN, niuez)
+- 2023/11 [ICPC 2023 Asia Yokohama Regional Contest](https://icpc.global/regionals/finder/Yokohama-2024/standings) 27位 Team Big O of N cubed (ruthen, pointN, niuez)
 
 ### その他
 - 2022/08 [RECRUIT 日本橋ハーフマラソン 2022夏 (AtCoder Heuristic Contest 013)](https://atcoder.jp/contests/ahc013) 学生23位
