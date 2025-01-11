@@ -31,7 +31,7 @@
 ## Interests
 - Search Algorithm
 - Game AI
-- Competitive Programming(Algorithm, Heuristic)
+- Competitive Programming (Algorithm, Heuristic)
 
 ## Competitive Programming
 ### Accounts
